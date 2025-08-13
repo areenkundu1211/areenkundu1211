@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Areen Kundu</h1>
+<h3 align="center">A passionate frontend from India</h3>
 
-<!--
-**areenkundu1211/areenkundu1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixeljeff1995.artstation.com%2Fprojects%2F8eelbG&psig=AOvVaw1wGsN3ItNqyLgiNo30v21K&ust=1755192740251000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjJzLOoiI8DFQAAAAAdAAAAABAm">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=areenkundu1211&label=Profile%20views&color=0e75b6&style=flat" alt="areenkundu1211" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Java**
+
+- 📫 How to reach me **areenkundu2327@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/areen kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areen kundu" height="30" width="40" /></a>
+<a href="https://instagram.com/areen_jaat_2327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="areen_jaat_2327" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@areenkundu2327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@areenkundu2327" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areenkundu1211&show_icons=true&locale=en" alt="areenkundu1211" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areenkundu1211&" alt="areenkundu1211" /></p>
