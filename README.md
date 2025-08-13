@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areenkundu1211&label=Profile%20views&color=0e75b6&style=flat" alt="areenkundu1211" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**  and **HTM**
 
 - 📫 How to reach me **areenkundu2327@gmail.com**
 
